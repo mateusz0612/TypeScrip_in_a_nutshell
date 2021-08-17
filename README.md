@@ -3,4 +3,5 @@ Examples of TypeScript basics such as Types, Interfaces, Abstract Classes, Type 
 
 Sources: \
 https://typeofweb.com/typescript-czesc-1/ \
-https://www.typescriptlang.org/docs/handbook/
+https://www.typescriptlang.org/docs/handbook/ \
+https://youtu.be/puOKhYcPg-0
