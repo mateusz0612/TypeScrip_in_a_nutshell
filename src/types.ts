@@ -1,3 +1,11 @@
+// Why we should use TypeScript?
+const person = {
+  name: "Adam",
+  age: 16
+};
+
+console.log(person.location);
+
 // TYPES
 // boolean, string, number, array, tuple, enum
 // string literal type
@@ -34,10 +42,3 @@ z = {
   name: "Jacek",
   age: 25
 };
-
-const person = {
-  name: "Adam",
-  age: 16
-};
-
-console.log(person.location);
