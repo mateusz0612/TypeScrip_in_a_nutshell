@@ -1,5 +1,5 @@
 # TypeScript In A Nutshell
-Examples of TypeScript basics such as Types, Interfaces, Abstract Classes, Type aliases, Union types, Intersection types, Enums
+Examples of TypeScript basics such as Types, Interfaces, Abstract Classes, Type aliases, Union types, Intersection types, Enums, Mapped Types
 
 Sources: \
 https://typeofweb.com/typescript-czesc-1/ \
