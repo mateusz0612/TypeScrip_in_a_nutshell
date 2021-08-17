@@ -1,4 +1,4 @@
-# TypeScript_in_a_nutshell
+# TypeScript In A Nutshell
 Examples of TypeScript basics such as Types, Interfaces, Abstract Classes, Type aliases, Union types, Intersection types, Enums
 
 Sources: \
